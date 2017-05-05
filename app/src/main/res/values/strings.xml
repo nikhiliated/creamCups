@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cream Cups</string>
+    <string name="button">SUBMIT</string>
+    <string name="header">Toppings</string>
+    <string name="header1">Number of cups</string>
+    <string name="quantity">2</string>
+
+    <string name="header2">ORDER SUMMARY</string>
+    <string name="price">""</string>
+    <string name="hint">"Name"</string>
+</resources>
